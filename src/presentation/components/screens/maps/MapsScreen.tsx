@@ -1,8 +1,8 @@
 import { Text, View, StyleSheet } from 'react-native'
-export const App = () => {
+export const MapsScreen = () => {
     return (
         <View>
-            <Text> Hello World</Text>
+            <Text> MapsScreen</Text>
         </View>
     )
 }

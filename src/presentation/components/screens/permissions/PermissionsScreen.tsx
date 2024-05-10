@@ -1,8 +1,8 @@
 import { Text, View, StyleSheet } from 'react-native'
-export const App = () => {
+export const PermissionsScreen = () => {
     return (
         <View>
-            <Text> Hello World</Text>
+            <Text> Permissions</Text>
         </View>
     )
 }
