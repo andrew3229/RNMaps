@@ -1,8 +1,8 @@
 
 import { createStackNavigator } from '@react-navigation/stack';
-import { LoadingScreen } from '../components/screens/loading/LoadinScreen';
-import { MapsScreen } from '../components/screens/maps/MapsScreen';
-import { PermissionsScreen } from '../components/screens/permissions/PermissionsScreen';
+import { LoadingScreen } from '../screens/loading/LoadinScreen';
+import { MapsScreen } from '../screens/maps/MapsScreen';
+import { PermissionsScreen } from '../screens/permissions/PermissionsScreen';
 
 export type RootStackParam = {
     LoadingScreen: undefined;
